@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8"/>
+    <title>Resume Aleksei Pekh</title>
+</head>
+
+<body>
+<h1>Aleksei Pekh</h1>
+<img src="20180723_172806.jpg" width="230" height="300">
+<hr/>
+<h2>About me</h2>I’m a CEO of a global company and a crime fighter. Fascinated by new technologies and a fast learner.
+<hr/>
+<h2>Hobbies</h2>
+<ul>
+    <li>Playing sports</li>
+    <ul>
+        <li>footbal</li>
+        <li>tennis</li>
+    </ul>
+    <li>Playing chess and solving puzzle games</li>
+    <li>Reading and writing books and articles</li>
+    <li>Travelling</li>
+    <li>Cooking and baking</li>
+</ul>
+<hr/>
+
+<h2>Education</h2>
+    <table border="1" width="60%" align="left">
+        <tbody>
+        <tr>
+            <th>Year</th>
+            <th>Country/Сity</th>
+            <th>Educational institution</th>
+        </tr>
+        <tr>
+            <td>2004-2009</td>
+            <td>Belarus/Minsk</td>
+            <td>Belarusian National Technical University</td>
+        </tr>
+        <tr>
+            <td>2022-2023</td>
+            <td>Haifa/Israel</td>
+            <td>Tel-Ran</td>
+        </tr>
+        </tbody>
+    </table>
+
+</body>
+
+</html>
